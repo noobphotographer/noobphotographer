@@ -9,8 +9,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kole-swapnil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kole-swapnil&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://github.com/kole-swapnil">
+    <img  alt="kole-swapnil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kole-swapnil&theme=monokai-metallian&hide_border=true"/>
   </a>
   
 </p>
