@@ -81,7 +81,7 @@
 ## Connect with me:
 
 <p align="center">
-
+<a href="mailto:swapnilkole7500@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/swapnil-kole/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://www.instagram.com/foody_kole/"><img src="https://img.shields.io/badge/foody_kole-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href ="https://github.com/kole-swapnil"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
