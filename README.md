@@ -23,7 +23,7 @@
 <p align="left"> <img src="https://img.icons8.com/fluency/48/000000/blockchain.png" alt="Blockchain"/>
   <img src="https://img.icons8.com/plasticine/52/000000/bash.png" alt="Bash"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb"/>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"    width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/></a>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJs"/><img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript"/></a> 
@@ -36,14 +36,14 @@
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/><img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material-UI"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP"/>
+  <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP"/> 
 </p>
 
 
 </br>
 
 <!--Projects-->
-
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 <!--Github Stats-->
 ## 📊 Github stats
