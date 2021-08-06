@@ -80,13 +80,13 @@
 <!--social-->
 ## Connect with me:
 
-<p align="left">
+<p align="center">
 
-<a href = "https://www.linkedin.com/in/swapnil-kole/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/foody_kole/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href ="https://github.com/kole-swapnil"><img src="https://img.icons8.com/color-glass/48/000000/github.png"/></a>
-<a href="https://twitter.com/SwapnilKole6"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-
+<a href = "https://www.linkedin.com/in/swapnil-kole/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://www.instagram.com/foody_kole/"><img src="https://img.shields.io/badge/foody_kole-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href ="https://github.com/kole-swapnil"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://twitter.com/SwapnilKole6"><img src="https://img.shields.io/badge/SwapnilKole6-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://wa.me/918328217163"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 </p>
 
