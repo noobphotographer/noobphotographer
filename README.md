@@ -23,21 +23,21 @@
 <p align="left"> <img src="https://img.icons8.com/fluency/48/000000/blockchain.png"/>
   <img src="https://img.icons8.com/plasticine/52/000000/bash.png"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"    width="40" height="40"/></a>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-    <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
-     </p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
+</p>
 
 
 </br>
