@@ -46,10 +46,11 @@
 ## 📘 Projects
 
 <p align="left">
+  <a href="https://kole-swapnil.github.io/" target= "_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=kole-swapnil.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
   <a href="https://github.com/kole-swapnil/Certichain"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Certichain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Certichain"></a>
   <a href="https://github.com/kole-swapnil/Distributeddocapp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Distributeddocapp&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Distributed Doctor Application"></a>
   <a href="https://kole-swapnil.github.io/Process_Lineage/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Process_Lineage&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Process_Lineage"></a>
-  <a href="https://noobphotographer.github.io/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=noobphotographer&repo=noobphotographer.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Photography Website"></a>
+  <a href="https://noobphotographer.github.io/" target= "_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=noobphotographer&repo=noobphotographer.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Photography Website"></a>
   <a href="https://github.com/kole-swapnil/Dairy-Management-System-SQL"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kole-swapnil&repo=Dairy-Management-System-SQL&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Dairy Management System"></a>
    
 </p>
@@ -82,10 +83,10 @@
 
 <p align="center">
 <a href="mailto:swapnilkole7500@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href = "https://www.linkedin.com/in/swapnil-kole/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://www.instagram.com/foody_kole/"><img src="https://img.shields.io/badge/foody_kole-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/in/swapnil-kole/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://www.instagram.com/foody_kole/" target= "_blank"><img src="https://img.shields.io/badge/foody_kole-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href ="https://github.com/kole-swapnil"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://twitter.com/SwapnilKole6"><img src="https://img.shields.io/badge/SwapnilKole6-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/SwapnilKole6" target= "_blank"><img src="https://img.shields.io/badge/SwapnilKole6-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://wa.me/918328217163"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 </p>
